@@ -1,2 +1,2 @@
 # Xenolinguistics Development Platform
- XenoLink is a groundbreaking blockchain-powered platform designed to revolutionize humanity's approach to potential extraterrestrial communication. By leveraging decentralized technologies, we create a collaborative ecosystem for developing universal communication protocols, analyzing potential extraterrestrial signals, and incentivizing breakthrough research.
+XenoLink is a groundbreaking blockchain-powered platform designed to revolutionize humanity's approach to potential extraterrestrial communication. By leveraging decentralized technologies, we create a collaborative ecosystem for developing universal communication protocols, analyzing potential extraterrestrial signals, and incentivizing breakthrough research.
